@@ -18,18 +18,12 @@ user_stories:
     as: job-seeker
     want: to be able to download the resume
     so_that: I can print it out and take it to an employer
-    acceptance_criteria:
-      - description: ""
-        completed: false
     component_ids: []
     column_id: COL1
   - id: US3
     as: manger
     want: I want to se how many resume have been created
     so_that: I can track the success of my app
-    acceptance_criteria:
-      - description: ""
-        completed: false
     component_ids: []
     column_id: COL2
 architecture:
